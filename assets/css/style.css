@@ -13,6 +13,10 @@ html body{
     padding: 4%;
 }
 
-.cont-discografia{
-    margin: 7%;
+.spoti{
+    margin-left: 20px;
+}
+
+.txt-spoti p{
+    margin-top: 10px;
 }
